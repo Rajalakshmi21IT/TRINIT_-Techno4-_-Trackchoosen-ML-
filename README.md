@@ -37,4 +37,8 @@ This project aims to develop an automated system for real-time road damage detec
 - Enhance user interface for better usability.
 - Explore additional features such as GPS tagging for precise location-based reporting.
 
+## Video Explanation
+- For a detailed explanation of the project, watch the video explanation here.
+  (https://drive.google.com/file/d/1w6oeV5XTa8Dgc7ZFI12OVcNddqIDny6n/view?usp=sharing)
+
 
