@@ -1,4 +1,4 @@
-# Road Damage Detection with Computer Vision
+# Automated Road Damage Detection for Infrastructure Maintenance
 
 ## Overview
 This project aims to develop an automated system for real-time road damage detection using computer vision techniques. Road infrastructure faces degradation over time due to factors like weather and traffic, leading to various types of damage such as cracks and potholes. Detecting these issues early is crucial for safety and cost-effectiveness, but traditional inspection methods are slow and labor-intensive. To address this challenge, we've created a simple, automated system capable of quickly and accurately detecting road damage in real-time.
